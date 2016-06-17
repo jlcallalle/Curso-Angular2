@@ -1,7 +1,7 @@
 Curso de Angular 2
 ===
 
-###Estudiante: **Sergio Brito**
+###Estudiante: **Jorge Callalle**
 
 **Twitter:** [@jlcallalle](https://twitter.com/jlcallalle)  
 
