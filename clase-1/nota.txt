@@ -7,17 +7,6 @@ esta version con html, css, js
 
 La versión de Agular Release Candidate (beta)
 
-Integrantes:
-william
-
-Juan Lujan
-
-Daniel lazarte
-
-Gabriel 
-
-jose luis
-
 
 typescrip js, ES6 forma de abstraer js
 
