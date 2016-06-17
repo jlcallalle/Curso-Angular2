@@ -1,0 +1,131 @@
+﻿Curso de Angular
+
+Profesor: Sergio Brito
+
+meteor.js, crear aplicaciones escritorio 
+esta version con html, css, js
+
+La versión de Agular Release Candidate (beta)
+
+Integrantes:
+william
+
+Juan Lujan
+
+Daniel lazarte
+
+Gabriel 
+
+jose luis
+
+
+typescrip js, ES6 forma de abstraer js
+
+
+Todavia no esta bien implementado en los navegadores
+
+
+, Canary Y Firefox Developer lo usan
+clases 
+no hay pregunta tonta, es mas tonto no preguntar
+
+
+https://github.com/Area51TrainingCenter/angular2_g1
+en 
+
+Enviroment MAC
+comand + espacio para abrir programas
+
+
+brew.sh . instalar tienda de aplicaciones en el mundo de mac
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
+install)"
+
+
+
+http://brew.sh/
+Homebrew, gestión de paquetes en Mac OS X. 
+
+
+
+
+PREPARACION DE AMBIENTE DE TRABAJO
+
+1ro  instalamos node
+
+A51-MBP-13:~ admin$ node -v
+v4.4.5
+
+A51-MBP-13:~ admin$ npm -v
+2.15.5
+
+npm 
+
+A51-MBP-13:clase_angular admin$ sudo npm install -g typescript
+-g es global
+
+
+
+https://www.typescriptlang.org/
+
+Investigar que es ES6 , conostan la version, que trae
+
+https://www.typescriptlang.org/
+
+typescrip > JS
+typescript trabaja con ES6, 
+
+los navegadores no reconocen del todo, por ello se transpirar
+compilar similar 
+para que los navegadores lo reconozcan
+
+
+
+
+A51-MBP-13:clase_angular admin$ tsc -v
+Version 1.8.10
+
+
+en comando open . abre ubicación direcorio 
+
+sublime: comando derecha izquierda, 
+se va al final de la linea: 
+
+conocen vi?
+
+
+
+Tarea: que hay detrás de navegadores web
+render engine: motor de renderisado
+ para que sirve, que hace, cual es la importancia
+cuales son los principales motores de rendereo
+
+
+
+se creo hello.ts , ahora con comandos:
+
+
+A51-MBP-13:clase_angular admin$ tsc hello.ts
+
+hacemos la transpiración
+
+en navegador chrome, consola, escribo:
+function greeter
+muestra contenido
+
+te puedes ahorrar una hora de código 
+si usamos teclas
+te puede dar la del carpio, investigar
+
+prototypes es complejo
+
+comando shit 7, comenta lo seleccionado
+
+
+
+la palabra reservada utilizamos led, para bloques sencillos
+var es mas global
+
+En Erick Elion, es una persona a seguir tiene su blog en medium
+http://manualdelguerrero.com/
